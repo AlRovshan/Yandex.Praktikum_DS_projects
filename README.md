@@ -1,4 +1,4 @@
-# Yandex.Praktikum_DS_projects
+# Yandex.Praktikum Data Science projects
 
 Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессии "Специалист по Data Science".
 
