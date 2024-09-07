@@ -1,5 +1,13 @@
 # Выявление негативных комментарий
 
+**Реализация**
+
+Для данного проекта реалезованы два способа:
+[1. С помощью модели BERT;] (https://github.com/AlRovshan/Yandex.Praktikum_DS_projects/blob/main/12.%20Toxic%20comments/toxic_comments_BERT.ipynb)
+[2. C помощью библиотеки NLTK.] (https://github.com/AlRovshan/Yandex.Praktikum_DS_projects/blob/main/12.%20Toxic%20comments/toxic_comments_NLTK.ipynb)
+
+**Введение**
+
 Интернет-магазин запускает новый сервис. Теперь пользователи могут редактировать и дополнять описания товаров, как в вики-сообществах. То есть клиенты предлагают свои правки и комментируют изменения других.
 
 
@@ -16,12 +24,6 @@
 **Описание данных**
 
 Данные находятся в файле `toxic_comments.csv`. Столбец *text* содержит текст комментария, а *toxic* — целевой признак.
-
-**Реализация**
-
-Для данного проекта реалезованы два способа:
-1. С помощью модели BERT; (https://github.com/AlRovshan/Yandex.Praktikum_DS_projects/blob/main/12.%20Toxic%20comments/toxic_comments_BERT.ipynb)
-2. C помощью библиотеки NLTK. (https://github.com/AlRovshan/Yandex.Praktikum_DS_projects/blob/main/12.%20Toxic%20comments/toxic_comments_NLTK.ipynb)
 
 **Результаты**
 
