@@ -4,9 +4,9 @@
 
 Для данного проекта реалезованы два способа:
 
-[1. С помощью модели BERT;] (https://github.com/AlRovshan/Yandex.Praktikum_DS_projects/blob/main/12.%20Toxic%20comments/toxic_comments_BERT.ipynb)
+[1. С помощью модели BERT;](https://github.com/AlRovshan/Yandex.Praktikum_DS_projects/blob/main/12.%20Toxic%20comments/toxic_comments_BERT.ipynb)
 
-[2. C помощью библиотеки NLTK.] (https://github.com/AlRovshan/Yandex.Praktikum_DS_projects/blob/main/12.%20Toxic%20comments/toxic_comments_NLTK.ipynb)
+[2. C помощью библиотеки NLTK.](https://github.com/AlRovshan/Yandex.Praktikum_DS_projects/blob/main/12.%20Toxic%20comments/toxic_comments_NLTK.ipynb)
 
 **Введение**
 
